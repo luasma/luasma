@@ -1,4 +1,4 @@
-## Hi there 👋
+[rentry](https://rentry.co/gtf5559b)
 
 <!--
 **luasma/luasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
