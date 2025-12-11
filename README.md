@@ -1,6 +1,6 @@
 [rentry](https://rentry.co/gtf5559b)
 
-[ezgif-68dbabfaae4289.gif]
+![que](ezgif-68dbabfaae4289.gif)
 
 <!--
 **luasma/luasma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
